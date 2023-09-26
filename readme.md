@@ -47,6 +47,7 @@ Using TapShare is easy and straightforward. Here are the steps to follow:
 ## Support
 
 If you have any questions or issues with TapShare, you can contact the support team via email at tapsharesite@gmail.com
+offline support
 
 ## Contributing
 
